@@ -5,8 +5,8 @@
 ## Fundamentals <a href="#fundamentals-1" id="fundamentals-1"></a>
 
 * [Introduction](fundamentals-1/fundamentals-introduction.md)
-* [Variables](fundamentals-1/variables.md)
 * [Types](fundamentals-1/types.md)
+* [Variables](fundamentals-1/variables.md)
 * [Operators](fundamentals-1/operators.md)
 * [Control Structures](fundamentals-1/control-structures.md)
 * [Loops](fundamentals-1/loops.md)
